@@ -1,0 +1,14 @@
+C:\Users\paulo\Downloads\Willian\RandomNumbers\RandomNumbers\bin\Debug\net8.0\RandomNumbers.exe
+C:\Users\paulo\Downloads\Willian\RandomNumbers\RandomNumbers\bin\Debug\net8.0\RandomNumbers.deps.json
+C:\Users\paulo\Downloads\Willian\RandomNumbers\RandomNumbers\bin\Debug\net8.0\RandomNumbers.runtimeconfig.json
+C:\Users\paulo\Downloads\Willian\RandomNumbers\RandomNumbers\bin\Debug\net8.0\RandomNumbers.dll
+C:\Users\paulo\Downloads\Willian\RandomNumbers\RandomNumbers\bin\Debug\net8.0\RandomNumbers.pdb
+C:\Users\paulo\Downloads\Willian\RandomNumbers\RandomNumbers\obj\Debug\net8.0\RandomNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Downloads\Willian\RandomNumbers\RandomNumbers\obj\Debug\net8.0\RandomNumbers.AssemblyInfoInputs.cache
+C:\Users\paulo\Downloads\Willian\RandomNumbers\RandomNumbers\obj\Debug\net8.0\RandomNumbers.AssemblyInfo.cs
+C:\Users\paulo\Downloads\Willian\RandomNumbers\RandomNumbers\obj\Debug\net8.0\RandomNumbers.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Downloads\Willian\RandomNumbers\RandomNumbers\obj\Debug\net8.0\RandomNumbers.dll
+C:\Users\paulo\Downloads\Willian\RandomNumbers\RandomNumbers\obj\Debug\net8.0\refint\RandomNumbers.dll
+C:\Users\paulo\Downloads\Willian\RandomNumbers\RandomNumbers\obj\Debug\net8.0\RandomNumbers.pdb
+C:\Users\paulo\Downloads\Willian\RandomNumbers\RandomNumbers\obj\Debug\net8.0\RandomNumbers.genruntimeconfig.cache
+C:\Users\paulo\Downloads\Willian\RandomNumbers\RandomNumbers\obj\Debug\net8.0\ref\RandomNumbers.dll
